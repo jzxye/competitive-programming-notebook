@@ -28,6 +28,7 @@ int main() {
             H[i]++;
     }
 
+    //naive solution
     int max_wins = 0;
     for (int i = 0; i <= N; i++)
     {
